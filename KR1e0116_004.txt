@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 惠氏春秋左傳補註
-#+DATE: 2015-09-23 09:40:43
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:17:40.591343
+#+PROPERTY: ID KR1e0116
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1e0116_WYG_004-1a>¶
 欽定四庫全書¶
 　春秋左傳補註卷四¶
@@ -578,4 +580,3 @@
 　張趯大夫也吉送少姜𦵏館焉故今云糞除先人敝¶
 　廬舍廟中故云先人¶
 　春秋左傳補註卷四¶
-
